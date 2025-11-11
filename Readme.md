@@ -56,5 +56,8 @@ Ejecuto Pycharm y abro el proyecto, después modifico un poco el script de pyton
 ![python](./images/mod_python.png)
 
 
+`Commit and push`:
+![commitypush](./images/commitypush.png)
+
 
 
